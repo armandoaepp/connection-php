@@ -30,8 +30,3 @@ catch (Exception $e) {
 	$objParametro->rollback() ;
 	echo $e->getMessage() ;
 }
-
-
-
-// $objPerNatural =  new ClsPerNatural() ;
-// $objPersona->ClsPersona($cnx)  ;
